@@ -1,3 +1,3 @@
-# Banco Digital API (Django)
+# Transportadora API (FastAPI)
 
-Skeleton project.
+Skeleton project for portfolio.
